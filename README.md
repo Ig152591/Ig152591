@@ -4,7 +4,7 @@ actualmente trabajando en proyectos educativos y personales con python/django co
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) www.linkedin.com/in/ignacio-giordano-5aa053137 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)   www.linkedin.com/in/ignacio-giordano-5aa053137    https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ig152591&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Ig152591&theme=dark&hide_border=false)<br/>
